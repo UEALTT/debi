@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<presentation title="Debi-videos" width="960.0000000" height="540.0000000" thmbWidth="0.0000000" thmbHeight="0.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2016" type="compound" hasExternalAudio="0" uid="{7E0E097F-8958-49D0-80BF-1C868E0B53E9}">
+<presentation title="Debi-videos-Paul’s iMac" width="960.0000000" height="540.0000000" thmbWidth="0.0000000" thmbHeight="0.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2016" type="compound" hasExternalAudio="0" uid="{95AA7CEC-D68E-4A4A-981F-C044184E3D9F}">
 	<presenters/>
 	<references/>
 	<soundAssets/>
@@ -137,201 +137,204 @@
 		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
 	</settings>
 	<slides embedded="0">
-		<slide index="0" title="" titleNormalized="" src="slide1.swf" size="461388" advanceOnTime="0" framesCount="309" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="0" title="" titleNormalized="" src="slide1.swf" size="461592" advanceOnTime="0" framesCount="308" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos>
-				<video id="video0" videoClipId="ispring.resources_8137960.spr0_868335527" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_8137960.spr2_868335527" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video0" videoClipId="ispring.resources_1fb742a0.spr0_877140193" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1fb742a0.spr2_877140193" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
 			</videos>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
 			<soundCommands/>
 			<videoCommands>
-				<playVideo frameIndex="1" videoId="video0" startPos="0.0000000"/>
+				<playVideo frameIndex="0" videoId="video0" startPos="0.0000000"/>
 			</videoCommands>
 			<animationSteps>
-				<step start="0" end="0" playTime="0.0010000"/>
-				<step start="1" end="308" playTime="12.7906667" pauseTime="0.0000000"/>
+				<step start="0" end="307" playTime="12.7916667" pauseTime="0.0000000"/>
 			</animationSteps>
 			<notes/>
 			<notesNormalized/>
 			<notesHtml/>
-			<text>OPEN QUESTIONS 1
+			<text>OPEN QUESTIONS
 “How can I help” 
 
-This is an example of an open question.</text>
+This is an example of an open question.
+NOW PLAYING</text>
 		</slide>
-		<slide index="1" title="" titleNormalized="" src="slide2.swf" size="471014" advanceOnTime="0" framesCount="205" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="1" title="" titleNormalized="" src="slide2.swf" size="471198" advanceOnTime="0" framesCount="204" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos>
-				<video id="video1" videoClipId="ispring.resources_819eee0.spr0_868341674" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_819eee0.spr2_868341674" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video1" videoClipId="ispring.resources_1f63d090.spr0_877144810" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1f63d090.spr2_877144810" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
 			</videos>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
 			<soundCommands/>
 			<videoCommands>
-				<playVideo frameIndex="1" videoId="video1" startPos="0.0000000"/>
+				<playVideo frameIndex="0" videoId="video1" startPos="0.0000000"/>
 			</videoCommands>
 			<animationSteps>
-				<step start="0" end="0" playTime="0.0010000"/>
-				<step start="1" end="204" playTime="8.4573333" pauseTime="0.0000000"/>
+				<step start="0" end="203" playTime="8.4583333" pauseTime="0.0000000"/>
 			</animationSteps>
 			<notes/>
 			<notesNormalized/>
 			<notesHtml/>
-			<text>OPEN QUESTIONS 2
+			<text>OPEN QUESTIONS
 “So you said that you have been having indigestion”
 
-Open question - Whilst this is actually a closed question that could be answered with a yes/no, it would subsequently invite an extended response assuming the answer to this question is ‘yes’. An example of a truly open question is “Tell me a bit more about what’s been happening.”</text>
+Open question - Whilst this is actually a closed question that could be answered with a yes/no, it would subsequently invite an extended response assuming the answer to this question is ‘yes’. An example of a truly open question is “Tell me a bit more about what’s been happening.”
+NOW PLAYING</text>
 		</slide>
-		<slide index="2" title="" titleNormalized="" src="slide3.swf" size="471940" advanceOnTime="0" framesCount="1111" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="2" title="" titleNormalized="" src="slide3.swf" size="939232" advanceOnTime="0" framesCount="2220" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos>
-				<video id="video2" videoClipId="ispring.resources_d81b9b8.spr0_868360363" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_d81b9b8.spr2_868360363" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video2" videoClipId="ispring.resources_24a2c928.spr0_877147104" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_24a2c928.spr2_877147104" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video3" videoClipId="ispring.resources_24a2c9a8.spr0_877147712" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_24a2c9a8.spr2_877147712" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
 			</videos>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
 			<soundCommands/>
 			<videoCommands>
 				<playVideo frameIndex="1" videoId="video2" startPos="0.0000000"/>
+				<playVideo frameIndex="1110" videoId="video3" startPos="0.0000000"/>
 			</videoCommands>
 			<animationSteps>
 				<step start="0" end="0" playTime="0.0010000"/>
-				<step start="1" end="1110" playTime="46.2073333" pauseTime="0.0000000"/>
+				<step start="1" end="2219" playTime="92.4156667" pauseTime="0.0000000"/>
 			</animationSteps>
 			<notes/>
 			<notesNormalized/>
 			<notesHtml/>
-			<text>OPEN QUESTIONS 3
-Pharmacist provides non-verbal sounds to encourage the patient to continue with their story and physical cues indicating active listening such as nodding.</text>
+			<text>OPEN QUESTIONS
+Pharmacist provides non-verbal sounds to encourage the patient to continue with their story and physical cues indicating active listening such as nodding.
+NOW PLAYING</text>
 		</slide>
-		<slide index="3" title="" titleNormalized="" src="slide4.swf" size="421229" advanceOnTime="0" framesCount="496" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="3" title="" titleNormalized="" src="slide4.swf" size="421386" advanceOnTime="0" framesCount="495" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos>
-				<video id="video3" videoClipId="ispring.resources_81e50b8.spr0_868369816" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_81e50b8.spr2_868369816" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video4" videoClipId="ispring.resources_24a2c828.spr0_877149038" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_24a2c828.spr2_877149038" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
 			</videos>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
 			<soundCommands/>
 			<videoCommands>
-				<playVideo frameIndex="1" videoId="video3" startPos="0.0000000"/>
+				<playVideo frameIndex="0" videoId="video4" startPos="0.0000000"/>
 			</videoCommands>
 			<animationSteps>
-				<step start="0" end="0" playTime="0.0010000"/>
-				<step start="1" end="495" playTime="20.5823333" pauseTime="0.0000000"/>
+				<step start="0" end="494" playTime="20.5833333" pauseTime="0.0000000"/>
 			</animationSteps>
 			<notes/>
 			<notesNormalized/>
 			<notesHtml/>
-			<text>OPEN QUESTIONS 4
-Signposting followed by a closed question – “can you describe to me what your diet is like?” can be answered with a yes or no but the non-verbal cues of nodding and silence invite an extended response. A truly open question would be “Please describe to me what your diet is like”.</text>
+			<text>OPEN QUESTIONS
+Signposting followed by a closed question – “can you describe to me what your diet is like?” can be answered with a yes or no but the non-verbal cues of nodding and silence invite an extended response. A truly open question would be “Please describe to me what your diet is like”.
+NOW PLAYING</text>
 		</slide>
-		<slide index="4" title="" titleNormalized="" src="slide5.swf" size="407974" advanceOnTime="0" framesCount="383" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="4" title="" titleNormalized="" src="slide5.swf" size="408124" advanceOnTime="0" framesCount="382" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos>
-				<video id="video4" videoClipId="ispring.resources_819efe0.spr0_868377429" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_819efe0.spr2_868377429" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video5" videoClipId="ispring.resources_24a46148.spr0_877151316" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_24a46148.spr2_877151316" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
 			</videos>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
 			<soundCommands/>
 			<videoCommands>
-				<playVideo frameIndex="1" videoId="video4" startPos="0.0000000"/>
+				<playVideo frameIndex="0" videoId="video5" startPos="0.0000000"/>
 			</videoCommands>
 			<animationSteps>
-				<step start="0" end="0" playTime="0.0010000"/>
-				<step start="1" end="382" playTime="15.8740000" pauseTime="0.0000000"/>
+				<step start="0" end="381" playTime="15.8750000" pauseTime="0.0000000"/>
 			</animationSteps>
 			<notes/>
 			<notesNormalized/>
 			<notesHtml/>
-			<text>OPEN QUESTIONS 5
+			<text>OPEN QUESTIONS
 “Emotions can sometimes affect our bowels”
 
-Followed by an open question “how have things been over the last few months?”</text>
+Followed by an open question “how have things been over the last few months?”
+NOW PLAYING</text>
 		</slide>
-		<slide index="5" title="" titleNormalized="" src="slide6.swf" size="472314" advanceOnTime="0" framesCount="468" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="5" title="" titleNormalized="" src="slide6.swf" size="472537" advanceOnTime="0" framesCount="467" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos>
-				<video id="video5" videoClipId="ispring.resources_82057f8.spr0_868386353" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_82057f8.spr2_868386353" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video6" videoClipId="ispring.resources_2497f0b8.spr0_877153749" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_2497f0b8.spr2_877153749" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
 			</videos>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
 			<soundCommands/>
 			<videoCommands>
-				<playVideo frameIndex="1" videoId="video5" startPos="0.0000000"/>
+				<playVideo frameIndex="0" videoId="video6" startPos="0.0000000"/>
 			</videoCommands>
 			<animationSteps>
-				<step start="0" end="0" playTime="0.0010000"/>
-				<step start="1" end="467" playTime="19.4156667" pauseTime="0.0000000"/>
+				<step start="0" end="466" playTime="19.4166667" pauseTime="0.0000000"/>
 			</animationSteps>
 			<notes/>
 			<notesNormalized/>
 			<notesHtml/>
-			<text>OPEN QUESTIONS 6
-The term of IBS is introduced followed by an open question “what do you know about it” inviting the patient to describe their current level of understanding prior to information giving.</text>
+			<text>OPEN QUESTIONS
+The term of IBS is introduced followed by an open question “what do you know about it” inviting the patient to describe their current level of understanding prior to information giving.
+NOW PLAYING</text>
 		</slide>
-		<slide index="6" title="" titleNormalized="" src="slide7.swf" size="468003" advanceOnTime="0" framesCount="965" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="6" title="" titleNormalized="" src="slide7.swf" size="468212" advanceOnTime="0" framesCount="964" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos>
-				<video id="video6" videoClipId="ispring.resources_82064f8.spr0_868402077" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_82064f8.spr2_868402077" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video7" videoClipId="ispring.resources_24c52bb8.spr0_877156620" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_24c52bb8.spr2_877156620" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
 			</videos>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
 			<soundCommands/>
 			<videoCommands>
-				<playVideo frameIndex="1" videoId="video6" startPos="0.0000000"/>
+				<playVideo frameIndex="0" videoId="video7" startPos="0.0000000"/>
 			</videoCommands>
 			<animationSteps>
-				<step start="0" end="0" playTime="0.0010000"/>
-				<step start="1" end="964" playTime="40.1240000" pauseTime="0.0000000"/>
+				<step start="0" end="963" playTime="40.1250000" pauseTime="0.0000000"/>
 			</animationSteps>
 			<notes/>
 			<notesNormalized/>
 			<notesHtml/>
-			<text>OPEN QUESTIONS 7
+			<text>OPEN QUESTIONS
 “Any thoughts about what you might be able to do to reduce the stress” 
 
-Inviting the patient to problem solve rather than offering solutions which may or may not be appropriate for the individual.</text>
+Inviting the patient to problem solve rather than offering solutions which may or may not be appropriate for the individual.
+NOW PLAYING</text>
 		</slide>
-		<slide index="7" title="" titleNormalized="" src="slide8.swf" size="404363" advanceOnTime="0" framesCount="910" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="7" title="" titleNormalized="" src="slide8.swf" size="404593" advanceOnTime="0" framesCount="909" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos>
-				<video id="video7" videoClipId="ispring.resources_26fb9170.spr0_868417022" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_26fb9170.spr2_868417022" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video8" videoClipId="ispring.resources_24c53a38.spr0_877158897" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_24c53a38.spr2_877158897" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
 			</videos>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
 			<soundCommands/>
 			<videoCommands>
-				<playVideo frameIndex="1" videoId="video7" startPos="0.0000000"/>
+				<playVideo frameIndex="0" videoId="video8" startPos="0.0000000"/>
 			</videoCommands>
 			<animationSteps>
-				<step start="0" end="0" playTime="0.0010000"/>
-				<step start="1" end="909" playTime="37.8323333" pauseTime="0.0000000"/>
+				<step start="0" end="908" playTime="37.8333333" pauseTime="0.0000000"/>
 			</animationSteps>
 			<notes/>
 			<notesNormalized/>
 			<notesHtml/>
-			<text>OPEN QUESTIONS 8
+			<text>OPEN QUESTIONS
 “What are your thoughts about how you might be able to make that happen?” and “Is there anything that would need to change to get you there once a week?”
 
-Inviting patient to formulate a specific plan. A definitive plan is still lacking thus the importance of this element is reinforced by the practitioner at the end. Ideally, the patient should be pressed further to formulate a specific plan.</text>
+Inviting patient to formulate a specific plan. A definitive plan is still lacking thus the importance of this element is reinforced by the practitioner at the end. Ideally, the patient should be pressed further to formulate a specific plan.
+NOW PLAYING</text>
 		</slide>
-		<slide index="8" title="" titleNormalized="" src="slide9.swf" size="411104" advanceOnTime="0" framesCount="1476" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="">
+		<slide index="8" title="" titleNormalized="" src="slide9.swf" size="411226" advanceOnTime="0" framesCount="1475" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="0" thumbnailAssetId="">
 			<sounds/>
 			<videos>
-				<video id="video8" videoClipId="ispring.resources_1963ddf0.spr0_868440048" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1963ddf0.spr2_868440048" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video9" videoClipId="ispring.resources_1fbf5e18.spr0_877161222" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1fbf5e18.spr2_877161222" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
 			</videos>
 			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
 			<soundCommands/>
 			<videoCommands>
-				<playVideo frameIndex="1" videoId="video8" startPos="0.0000000"/>
+				<playVideo frameIndex="0" videoId="video9" startPos="0.0000000"/>
 			</videoCommands>
 			<animationSteps>
-				<step start="0" end="0" playTime="0.0010000"/>
-				<step start="1" end="1475" playTime="61.4156667" pauseTime="0.0000000"/>
+				<step start="0" end="1474" playTime="61.4166667" pauseTime="0.0000000"/>
 			</animationSteps>
 			<notes/>
 			<notesNormalized/>
 			<notesHtml/>
-			<text>OPEN QUESTIONS 9
+			<text>OPEN QUESTIONS
 “Is there anything else I can help you with at this stage?”
  
 Summarising plan:
 Yoga 
 Loperamide
  
-Optimism verbalized through indicating periods over which benefits should be noticed.</text>
+Optimism verbalized through indicating periods over which benefits should be noticed.
+NOW PLAYING</text>
 		</slide>
 	</slides>
 </presentation>
